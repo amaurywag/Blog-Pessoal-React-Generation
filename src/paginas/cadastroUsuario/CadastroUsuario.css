@@ -1,14 +1,12 @@
-.text-decorator-none{
-    text-decoration: none;
-}
-.texto-cadastrar{
-    font-weight: bold !important;
-}
-.img-cuscuz{
+.imagem2{
     background-image: url(https://blog.bodytech.com.br/wp-content/uploads/2021/11/shutterstock_1652142547-1200x795.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     width: 100vh;
     min-height: 100vh;
+}
+.flex-botoes {
+    display: inline-flex;
+    margin: 10px;
 }
