@@ -4,7 +4,7 @@ import { Typography, TextField, Button, Grid, Box } from "@material-ui/core";
 import { Link, useHistory } from 'react-router-dom';
 import useLocalStorage from "react-use-localstorage";
 import { login } from "../../services/Service";
-import UserLogin from "../../models/UseLogin";
+import UserLogin from "../../models/UserLogin";
 
 function Login() {
 
